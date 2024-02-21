@@ -11,6 +11,7 @@ Probabilité et statistiques , Algèbre linéaire avec Python
 - Matthias 
 - Youseffe
 - GAIO DOS SANTOS Lucas
+- HANY MOHAMED AMINE
 
 ## Projet 1 - 18 février
 
