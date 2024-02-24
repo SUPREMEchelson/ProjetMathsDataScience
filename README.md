@@ -9,8 +9,8 @@ Probabilité et statistiques , Algèbre linéaire avec Python
 - SUPREME Chelson
 - CHOUAY Ibrahim
 - Matthias 
-- Youseffe
 - GAIO DOS SANTOS Lucas
+- HANY MOHAMED AMINE
 
 ## Projet 1 - 18 février
 
